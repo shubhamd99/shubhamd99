@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shubham Dhage
+# Hi there 👋 I'm Shubham D
 
 🚀 Senior Frontend Engineer building high-scale mobile & web applications
 
